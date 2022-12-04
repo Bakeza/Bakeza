@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bakeza Diazada, Full Stack Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
+<h1 align="center">Bakeza Diazada, Full Stack Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
     <img src="https://www.codewars.com/users/Bakeza/badges/large" /><br><br><br>
     <a href="https://www.linkedin.com/in/bakeza-diazada">
