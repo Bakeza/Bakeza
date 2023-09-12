@@ -47,7 +47,7 @@
 ## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Bakeza&theme=dracula&show_icons=true" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bakeza&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakeza&layout=compact&text_color=daf7dc&bg_color=151515&theme=dracula&show_icons=true" />
 </div>
 
 ## Statistics <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
