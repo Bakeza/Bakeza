@@ -25,8 +25,7 @@
 </p>
 
 ## Goal <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
- Willing to direct large-scale teams or work hands-on to complete extremely difficult projects. Brings both cutting-edge programming expertise and exceptional interpersonal skills to leadership roles
-
+A junior full-stack web developer seeking a leadership role and eager to lead large-scale teams working hands-on to complete complex projects brings cutting-edge programming expertise and exceptional interpersonal skills to leadership roles.
 
 ## Programming Languages and Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
