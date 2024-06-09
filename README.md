@@ -42,11 +42,14 @@ A junior full-stack web developer seeking a leadership role and eager to lead la
 ![Api's](https://img.shields.io/badge/-apis-3A3A3A?style=for-the-badge&logo=connect&logoColor=white)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 ## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Bakeza&theme=dracula&show_icons=true" />
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakeza&layout=compact&text_color=daf7dc&bg_color=151515&theme=dracula&show_icons=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bakeza&theme=radical" alt="Bakeza's GitHub Contribution"/>
 </div>
 
 ## Statistics <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
